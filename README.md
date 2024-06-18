@@ -1,7 +1,6 @@
 # Bloom_An-Aid-for-Visually-Impaired
 An application to assist visually impaired community.
-# Bloom-An-Aid-for-Visually-Impaired
-An application to assist visually impaired community.
+
 # Bloom: Visually Impaired Guidance Application
 
 Bloom is an Android application that aims to provide guidance and assistance to visually impaired individuals. It leverages object detection using TensorFlow Lite to help users detect objects in their surroundings.
